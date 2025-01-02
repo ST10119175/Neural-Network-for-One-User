@@ -1,0 +1,14 @@
+C:\Users\nyiko\source\repos\Neural Network for One User\Neural Network for One User\bin\Debug\net8.0\Neural Network for One User.exe
+C:\Users\nyiko\source\repos\Neural Network for One User\Neural Network for One User\bin\Debug\net8.0\Neural Network for One User.deps.json
+C:\Users\nyiko\source\repos\Neural Network for One User\Neural Network for One User\bin\Debug\net8.0\Neural Network for One User.runtimeconfig.json
+C:\Users\nyiko\source\repos\Neural Network for One User\Neural Network for One User\bin\Debug\net8.0\Neural Network for One User.dll
+C:\Users\nyiko\source\repos\Neural Network for One User\Neural Network for One User\bin\Debug\net8.0\Neural Network for One User.pdb
+C:\Users\nyiko\source\repos\Neural Network for One User\Neural Network for One User\obj\Debug\net8.0\Neural Network for One User.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyiko\source\repos\Neural Network for One User\Neural Network for One User\obj\Debug\net8.0\Neural Network for One User.AssemblyInfoInputs.cache
+C:\Users\nyiko\source\repos\Neural Network for One User\Neural Network for One User\obj\Debug\net8.0\Neural Network for One User.AssemblyInfo.cs
+C:\Users\nyiko\source\repos\Neural Network for One User\Neural Network for One User\obj\Debug\net8.0\Neural Network for One User.csproj.CoreCompileInputs.cache
+C:\Users\nyiko\source\repos\Neural Network for One User\Neural Network for One User\obj\Debug\net8.0\Neural Network for One User.dll
+C:\Users\nyiko\source\repos\Neural Network for One User\Neural Network for One User\obj\Debug\net8.0\refint\Neural Network for One User.dll
+C:\Users\nyiko\source\repos\Neural Network for One User\Neural Network for One User\obj\Debug\net8.0\Neural Network for One User.pdb
+C:\Users\nyiko\source\repos\Neural Network for One User\Neural Network for One User\obj\Debug\net8.0\Neural Network for One User.genruntimeconfig.cache
+C:\Users\nyiko\source\repos\Neural Network for One User\Neural Network for One User\obj\Debug\net8.0\ref\Neural Network for One User.dll
